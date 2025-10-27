@@ -1,6 +1,6 @@
 # Software Testing – SWAYAM NPTEL (Assignments & Notes)
 
-📘 This repository contains **assignment** from the **Software Testing** course offered by **SWAYAM NPTEL** in the years **2019**, **2020**, **2021**, **2024** and **2025**, along with the **official lecture notes** shared during the **2025 session** by the instructor.
+📘 This repository contains **assignment** from the **Software Testing** course offered by **SWAYAM NPTEL** in the years **2019**, **2020**, **2021**, **2024** and **2025**.
 
 ---
 
@@ -8,7 +8,6 @@
 
 This repository is created to help learners by:
 - Providing assignment for multiple NPTEL sessions (2019, 2020, 2021, 2024, & 2025) for quick revision and reference.
-- Sharing lecture notes from the 2025 session for reference.
 
 ---
 
@@ -38,7 +37,7 @@ Please feel free to open a pull request or raise an issue.
 
 This repository is intended **strictly for educational and non-commercial use only**.  
 
-- All assignments and lecture notes are the intellectual property of **SWAYAM–NPTEL**, **IIIT Bangalore**, and the **respective instructor(s)**.  
+- All assignments are the intellectual property of **SWAYAM–NPTEL**, **IIIT Bangalore**, and the **respective instructor(s)**.  
 - This repository does **not claim any ownership** over the content. It is shared with the intent to help fellow students revise and learn better.  
 
 > **Note:** If NPTEL or any copyright holder requests content removal,  
