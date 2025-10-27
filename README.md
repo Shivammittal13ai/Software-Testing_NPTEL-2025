@@ -1,4 +1,4 @@
-# Software Testing – SWAYAM NPTEL (Assignments & Notes)
+# Software Testing – SWAYAM NPTEL (Assignments)
 
 📘 This repository contains **assignment** from the **Software Testing** course offered by **SWAYAM NPTEL** in the years **2019**, **2020**, **2021**, **2024** and **2025**.
 
