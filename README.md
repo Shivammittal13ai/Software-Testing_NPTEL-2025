@@ -40,7 +40,7 @@ This repository is created to help learners by:
 
 I’ve also shared my **personal experience** of the **Software Testing Final Exam (NPTEL 2025)**.
 
-👉 [Read my blog post here](#) _(link coming soon!)_
+👉 [Read my blog post here](https://medium.com/@iamsmittal13/my-nptel-software-testing-iiit-bangalore-final-exam-experience-afternoon-session-26-oct-2025-5211ad0e8aa3) 
 
 ---
 
