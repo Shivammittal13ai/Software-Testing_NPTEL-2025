@@ -2,6 +2,8 @@
 
 📘 This repository contains **assignments** from the **Software Testing** course offered by **SWAYAM NPTEL** in the years **2019**, **2020**, **2021**, **2024** and **2025**.
 
+🧾 It also includes a **final exam review and analysis** for the 2025 session, covering the **exam pattern, section-wise structure, and key insights** — designed to help future learners understand the paper format and prepare effectively.
+
 ---
 
 ## 🎯 Purpose
