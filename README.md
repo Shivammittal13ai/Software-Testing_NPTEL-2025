@@ -15,8 +15,7 @@ This repository is created to help learners by:
 
 - **Course Name:** Software Testing  
 - **Platform:** SWAYAM–NPTEL  
-- **Instructor:** Prof. Meenakshi D'souza – IIIT Bangalore 
-- **Level:** Undergraduate/Postgraduate (Core CSE Course)  
+- **Instructor:** Prof. Meenakshi D'souza – IIIT Bangalore  
 - **Duration:** 12 Weeks  
 - **Course Link:** [https://onlinecourses.nptel.ac.in/noc25_cs113/preview](https://onlinecourses.nptel.ac.in/noc25_cs113/preview)
 
