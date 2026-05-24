@@ -1,7 +1,7 @@
 <img width="2172" height="724" alt="ChatGPT Image May 24, 2026, 04_06_09 PM" src="https://github.com/user-attachments/assets/297e77cf-22c9-4d7c-8dbd-829ccd04f7cb" />
 
 
-# Software Testing – SWAYAM NPTEL | IIIT Bangalore (Assignments, Final Exam Review)
+# Software Testing – SWAYAM NPTEL | IIIT Bangalore (Assignments & Final Exam Review)
 
 📘 This repository contains **assignments** from the **Software Testing** course offered by **IIIT Bangalore** in collaboration with **SWAYAM-NPTEL** in the years **2019**, **2020**, **2021**, **2024** and **2025**.
 
@@ -14,17 +14,9 @@
 This repository is created to help learners by:
 
 - Providing assignments from multiple NPTEL sessions (2019, 2020, 2021, 2024, & 2025) for quick revision and reference.
-- Providing insights into the final exam pattern, section-wise structure, and key preparation areas from the Jul-Oct 2025 session.
+- Providing insights into the final exam pattern, section-wise structure, and key preparation areas from the Jul-Oct 2025 session — with a detailed personal exam review available on Medium (linked below).
 
 ---
-
-## 📌 About the Course
-
-- **Course Name:** Software Testing  
-- **Platform:** SWAYAM–NPTEL  
-- **Instructor:** Prof. Meenakshi D'souza – IIIT Bangalore  
-- **Duration:** 12 Weeks  
-- **Course Link:** [https://onlinecourses.nptel.ac.in/noc25_cs113/preview](https://onlinecourses.nptel.ac.in/noc25_cs113/preview)
 
 ## 📌 Course Information
 
@@ -39,10 +31,10 @@ This repository is created to help learners by:
 
 ---
 
-## 💡 Helpful Insights & Notes
+## 💡 Helpful Insights & Key Suggestions
 
-- 🗓️ The **2025 assignments** are **completely similar to the 2022 session assignments.**  
-  If you’re taking the **Software Testing** course in **any upcoming session**, you can refer to **previous years’ assignments** to verify and understand the questions. Most assignment questions remain the same or have only minor changes — so checking older solutions can help you **solve current assignments faster with better understanding and accuracy.**
+- 🗓️ The **2025 assignments** are **completely similar to the 2022 session assignments.**
+  If you’re taking the **Software Testing** course in **any upcoming session**, you can refer to **previous year assignments** to verify and understand the questions. Most assignment questions remain the same or have only minor changes — so checking older solutions can help you **solve current assignments faster with better understanding and accuracy.**
 
 - 🎥 **The live session conducted by the instructor just before the exam is extremely valuable.**  
   In that session, the instructor shares **key strategies**, **important topics**, and **the overall pattern of the final exam.**  
@@ -53,22 +45,32 @@ This repository is created to help learners by:
 
 ---
 
-## 📝 My Experience
+## 📝 Final Exam Review (Session: Jul-Oct 2025, Shift: Afternoon)
 
-I’ve also shared my **personal experience** of the **Software Testing Final Exam (NPTEL 2025)**.
+A detailed review of the final exam, covering the exam atmosphere, question pattern, difficulty level, and key observations, is available on Medium.
 
-👉 [Read my blog post here](https://medium.com/@iamsmittal13/my-nptel-software-testing-iiit-bangalore-final-exam-experience-afternoon-session-26-oct-2025-5211ad0e8aa3) 
+👉 [Read the Full Exam Review](https://medium.com/@iamsmittal13/my-nptel-software-testing-iiit-bangalore-final-exam-experience-afternoon-session-26-oct-2025-5211ad0e8aa3) 
 
 ---
 
 ## 🤝 Contributions
 
 You are welcome to contribute by:
-- Adding new session materials (e.g., from other years)
-- Correcting mistakes or improving clarity
-- Sharing additional learning resources
 
-Please feel free to open a pull request or raise an issue.
+- Adding new session materials (e.g., from other years).
+- Improving organization and clarity.
+- Fixing errors or broken resources.
+- Sharing additional learning resources.
+
+Feel free to open an issue or submit a pull request.
+
+---
+
+## ⭐ Support
+
+If you find this repository helpful, consider giving it a star ⭐. 
+
+It helps the repository reach more learners and supports future improvements.
 
 ---
 
@@ -76,21 +78,17 @@ Please feel free to open a pull request or raise an issue.
 
 This repository is intended **strictly for educational and non-commercial use only**.  
 
-- All assignments are the intellectual property of **SWAYAM–NPTEL**, **IIIT Bangalore**, and the **respective instructor(s)**.  
+- All assignments and lecture notes are the intellectual property of **SWAYAM–NPTEL**, **IIIT Bangalore**, and the **respective instructor(s)**.  
 - This repository does **not claim any ownership** over the content. It is shared with the intent to help fellow students revise and learn better.  
 
-> **Note:** If NPTEL or any copyright holder requests content removal,  
-> **I will comply immediately.**
-
-> **If you are a copyright holder and have concerns regarding this repository,  
-> please open an issue on this GitHub repo. I will take immediate action.**
+> If any copyright holder or official authority requests content removal, the content will be removed immediately.
 
 By using this repository, you agree to:
+
 - Use the materials **ethically**
-- **Avoid plagiarism** in your own submissions
+- **Avoid plagiarism** in academic submissions
 - Respect the original creators and instructors
 
 ---
 
 > 🌱 *"When you share knowledge, you shape the future. Let’s learn and grow together!"*
-
