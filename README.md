@@ -1,4 +1,4 @@
-<img width="2172" height="724" alt="ChatGPT Image May 24, 2026, 04_06_09 PM" src="https://github.com/user-attachments/assets/297e77cf-22c9-4d7c-8dbd-829ccd04f7cb" /><img width="2172" height="724" alt="ChatGPT Image May 24, 2026, 04_06_09 PM" src="https://github.com/user-attachments/assets/63b7476d-4341-42a3-8f47-6cab555bcdbe" />
+<img width="2172" height="724" alt="ChatGPT Image May 24, 2026, 04_06_09 PM" src="https://github.com/user-attachments/assets/297e77cf-22c9-4d7c-8dbd-829ccd04f7cb" />
 
 
 # Software Testing – SWAYAM NPTEL (Assignments, Final-Exam Review)
