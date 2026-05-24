@@ -1,18 +1,20 @@
 <img width="2172" height="724" alt="ChatGPT Image May 24, 2026, 04_06_09 PM" src="https://github.com/user-attachments/assets/297e77cf-22c9-4d7c-8dbd-829ccd04f7cb" />
 
 
-# Software Testing – SWAYAM NPTEL (Assignments, Final-Exam Review)
+# Software Testing – SWAYAM NPTEL | IIIT Bangalore (Assignments, Final Exam Review)
 
-📘 This repository contains **assignments** from the **Software Testing** course offered by **SWAYAM NPTEL** in the years **2019**, **2020**, **2021**, **2024** and **2025**.
+📘 This repository contains **assignments** from the **Software Testing** course offered by **IIIT Bangalore** in collaboration with **SWAYAM-NPTEL** in the years **2019**, **2020**, **2021**, **2024** and **2025**.
 
-🧾 It also includes a **final exam review and analysis** for the 2025 session, covering the **exam pattern, section-wise structure, and key insights** — designed to help future learners understand the paper format and prepare effectively.
+🧾 It also includes a **final exam review and analysis** for the **Jul-Oct 2025 session**, covering the **exam pattern, section-wise structure, and key insights**, designed to help future learners understand the paper format and prepare effectively.
 
 ---
 
 ## 🎯 Purpose
 
 This repository is created to help learners by:
-- Providing assignment for multiple NPTEL sessions (2019, 2020, 2021, 2024, & 2025) for quick revision and reference.
+
+- Providing assignments from multiple NPTEL sessions (2019, 2020, 2021, 2024, & 2025) for quick revision and reference.
+- Providing insights into the final exam pattern, section-wise structure, and key preparation areas from the Jul-Oct 2025 session.
 
 ---
 
@@ -23,6 +25,17 @@ This repository is created to help learners by:
 - **Instructor:** Prof. Meenakshi D'souza – IIIT Bangalore  
 - **Duration:** 12 Weeks  
 - **Course Link:** [https://onlinecourses.nptel.ac.in/noc25_cs113/preview](https://onlinecourses.nptel.ac.in/noc25_cs113/preview)
+
+## 📌 Course Information
+
+| Field | Details | 
+|---|---| 
+| **Course** | Software Testing | 
+| **Platform** | SWAYAM – NPTEL | 
+| **Institute** | IIIT Bangalore | 
+| **Instructor** | Prof. Meenakshi D'souza | 
+| **Duration** | 12 Weeks | 
+| **Course Link** | https://onlinecourses.nptel.ac.in/noc25_cs113/preview |
 
 ---
 
