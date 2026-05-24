@@ -33,12 +33,11 @@ This repository is created to help learners by:
 
 ## 💡 Helpful Insights & Key Suggestions
 
-- 🗓️ The **2025 assignments** are **completely similar to the 2022 session assignments.**
-  If you’re taking the **Software Testing** course in **any upcoming session**, you can refer to **previous year assignments** to verify and understand the questions. Most assignment questions remain the same or have only minor changes — so checking older solutions can help you **solve current assignments faster with better understanding and accuracy.**
+- 🗓️ The **Jul–Oct 2025 session assignments** are **completely similar to the Jul–Oct 2022 session assignments.**  
+  If you’re taking the **Software Testing** course in **any upcoming session**, you can refer to **previous year assignments** to verify and understand the questions. Most assignment questions   remain the same or have only minor changes, so checking older solutions can help you **solve current assignments faster with better understanding and accuracy.**  
 
 - 🎥 **The live session conducted by the instructor just before the exam is extremely valuable.**  
-  In that session, the instructor shares **key strategies**, **important topics**, and **the overall pattern of the final exam.**  
-  Watching it carefully can **significantly improve your preparation and boost your final exam score.**
+  In that session, the instructor shares **key strategies**, **important topics**, and **the overall pattern of the final exam.**  Watching it carefully can **significantly improve your preparation and boost your final exam score.**
   
   📺 **Watch the 2025 Live Session conducted just before the final exam here:**  
   🔗 [https://www.youtube.com/live/XoIlyGWF5aw](https://www.youtube.com/live/XoIlyGWF5aw)
