@@ -29,6 +29,8 @@ This repository is created to help learners by:
 | **Duration** | 12 Weeks | 
 | **Course Link** | https://onlinecourses.nptel.ac.in/noc25_cs113/preview |
 
+> 💡 **Note:** This course is offered **only once a year**, mostly during the **Jul-Oct session**.
+
 ---
 
 ## 💡 Helpful Insights & Key Suggestions
